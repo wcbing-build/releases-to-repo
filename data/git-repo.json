@@ -292,7 +292,7 @@
         }
     },
     "zyfun": {
-        "repo": "Hiram-Wong/ZyPlayer",
+        "repo": "Hiram-Wong/zyfun",
         "file_list": {
             "amd64": "zyfun-linux-{version}-amd64.deb",
             "arm64": "zyfun-linux-{version}-arm64.deb"
