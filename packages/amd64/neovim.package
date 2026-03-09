@@ -1,16 +1,16 @@
 Package: neovim
 Architecture: amd64
-Version: 0.11.5
+Version: 0.11.6
 Priority: optional
 Section: devel
 Maintainer: Neovim.io
-Installed-Size: 31663
+Installed-Size: 31672
 Depends: libc6 (>= 2.34)
-Filename: https://github.com/neovim/neovim-releases/releases/download/v0.11.5/nvim-linux-x86_64.deb
-Size: 9627970
-MD5sum: 4737faee308a65f0f5b4b85870d7d2c4
-SHA1: 08658a8de20a5138ad838a7fca2817f0f6d96998
-SHA256: 40d9907393708de86b65dc2c9ad4f3468e8aac220f2f54ca5638ec9d1bbe0bb6
-SHA512: 94d4779c5c0d90b8973d6404cccef69a8dec3ef4ea7f3b2fda4ce4c4702dd5c148192c8656def075e91cd5659eda0918eb8835abf654e709199309806afc357b
+Filename: https://github.com/neovim/neovim-releases/releases/download/v0.11.6/nvim-linux-x86_64.deb
+Size: 9631916
+MD5sum: 7d8f8636510eacdc204f32a8b0f92446
+SHA1: 8932cf5093b44a9675cfbfd25dcd73d2669746ef
+SHA256: 707e55378cd46d225a6b943890a7afb706b8a4058f968435bf556eb0d1e2a9a4
+SHA512: 42c740cff4a7d1641aa2e77f48fbf15b41a3c15f0fb78a9c261a2815783d187b80c5df12483b2e79892bb8375ccc1919cd7daba50d4cba4f3cc16dd88752d2fe
 Description: Vim-fork focused on extensibility and usability.
 
