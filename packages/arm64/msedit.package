@@ -1,0 +1,15 @@
+Package: msedit
+Architecture: arm64
+Version: 1.2.0-1
+Priority: optional
+Section: editors
+Maintainer: wcbing <i@wcbing.top>
+Filename: https://github.com/wcbing-build/msedit-debs/releases/latest/download/./msedit_1.2.0-1_arm64.deb
+Size: 98416
+MD5sum: ae1927bfa9fba4a8833b66204868b27c
+SHA1: 48c53f0e3dd0bf65d8fdf78385a36dc7a41dbbd1
+SHA256: 9646dfec2cd62d7293ee2f7445d4d3d051d10c7ccabe66f1178e29e38ce41c73
+SHA512: d4c7d57606ac0fbec17f4fd988edb6283a63ce360ccaeb7816eb69cd76c6f5242f896898149fcb983003929ee9a5af3e13c44ce122e7d99da8c425bb70233563
+Homepage: https://github.com/microsoft/edit
+Description: A simple editor for simple needs.
+

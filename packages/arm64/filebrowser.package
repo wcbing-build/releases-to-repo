@@ -1,0 +1,20 @@
+Package: filebrowser
+Architecture: arm64
+Version: 2.61.2-1
+Priority: optional
+Section: web
+Maintainer: wcbing <i@wcbing.top>
+Installed-Size: 65452
+Filename: https://github.com/wcbing-build/filebrowser-debs/releases/latest/download/./filebrowser_2.61.2-1_arm64.deb
+Size: 22021348
+MD5sum: 17f5953f0a6edd75ccc91a218562519c
+SHA1: 9230caf48c6ff0f1106bc225f451303637a7ca8b
+SHA256: 11a4f8a28ab192b7245ec1a08b134ea8fd127b0713e856199907bd0f000a0c95
+SHA512: 7c6ebcd56fc8579afcbcc2d861677c2f8596ce053a24721868c1b6141dba8acf9d0c4d6c3efb21ae3ff0bc17ac5252bed37791539aa4bb72ccf5983911808cb1
+Homepage: https://github.com/filebrowser/filebrowser
+Description: Web File Browser
+ File Browser provides a file managing interface within a specified directory
+ and it can be used to upload, delete, preview and edit your files. It is a
+ create-your-own-cloud-kind of software where you can just install it on your
+ server, direct it to a path and access your files through a nice web interface.
+
