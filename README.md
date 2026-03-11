@@ -42,7 +42,7 @@
 | [MusicFree](https://github.com/maotoumao/MusicFreeDesktop) | musicfree | ✅ | |
 | [Neovim/Nvim](https://github.com/neovim/neovim-releases) | neovim | ✅ | |
 | [Obsidian](https://github.com/obsidianmd/obsidian-releases) | obsidian | ✅ | |
-| [OnlyOffice 桌面编辑器](https://github.com/ONLYOFFICE/DesktopEditors) | onlyoffice- | ✅ | |
+| [OnlyOffice 桌面编辑器](https://github.com/ONLYOFFICE/DesktopEditors) | onlyoffice-desktopeditors | ✅ | |
 | [Pandoc](https://github.com/jgm/pandoc) | pandoc | ✅ | ✅ |
 | [PDFsam Basic](https://github.com/torakiki/pdfsam) | pdfsam-basic | ✅ | |
 | [PeaZip](https://github.com/peazip/PeaZip) | peazip | ✅ | |
