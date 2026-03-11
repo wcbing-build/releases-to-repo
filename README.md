@@ -74,6 +74,21 @@
 | [星火应用商店](https://gitee.com/spark-store-project/spark-store) | spark-store | ✅ | ✅ |
 
 
+### APT Repositories on Github
+
+| 软件名 | 包名 | amd64 | arm64 |
+| ------ | ---- | ----- | ----- |
+| [Dufs](https://github.com/wcbing-build/dufs-debs) | dufs | ✅ | ✅ |
+| [File Browser](https://github.com/wcbing-build/filebrowser-debs) | filebrowser | ✅ | ✅ |
+| [frp](https://github.com/wcbing-build/frp-debs) | frps<br />frpc | ✅ | ✅ |
+| [Himalaya](https://github.com/wcbing-build/himalaya-debs) | himalaya | ✅ | ✅ |
+| [Lazydocker](https://github.com/wcbing-build/lazydocker-debs) | lazydocker | ✅ | ✅ |
+| [Lazygit](https://github.com/wcbing-build/lazygit-debs) | lazygit | ✅ | ✅ |
+| [Microsoft Edit](https://github.com/wcbing-build/msedit-debs) | msedit | ✅ | ✅ |
+| [Neovide](https://github.com/wcbing-build/neovide-debs) | neovide | ✅ | |
+| [NextTrace](https://github.com/nxtrace/nexttrace-debs) | nexttrace | ✅ | ✅ |
+
+
 ## 存档或不活跃
 
 | 软件名 | 包名 | amd64 | arm64 |

@@ -19,7 +19,9 @@ jobs:
       - name: Run
         # 将脚本 print（stdout）写入 release_notes 文件，以便作为 release 的正文。
         # 脚本中的 logging (stderr) 将不会被重定向，仍会打印到 job 日志。
-        run: python3 get-git-releases.py > release_notes
+        run: |
+          ./get-git-releases.py > release_notes
+          ./merge-apt-repo.py
 
       - name: Check for changes
         id: changes
