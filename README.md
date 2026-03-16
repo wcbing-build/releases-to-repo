@@ -43,6 +43,7 @@
 | [mihomo](https://github.com/MetaCubeX/mihomo) | mihomo | ✅ | ✅ |
 | [MQTTX](https://github.com/emqx/MQTTX) | mqttx | ✅ | ✅ |
 | [MusicFree](https://github.com/maotoumao/MusicFreeDesktop) | musicfree | ✅ | |
+| [nautilus-open-any-terminal](https://github.com/Stunkymonkey/nautilus-open-any-terminal) | nautilus-extension-any-terminal | ✅ | ✅ |
 | [Neovim/Nvim](https://github.com/neovim/neovim-releases) | neovim | ✅ | |
 | [网易云音乐 - Web 版](https://github.com/elysia-best/netease-cloud-music-web) | netease-cloud-music | ✅ | ✅ |
 | [Obsidian](https://github.com/obsidianmd/obsidian-releases) | obsidian | ✅ | |

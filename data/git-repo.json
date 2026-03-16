@@ -233,6 +233,12 @@
             "amd64": "MusicFree-{version}-linux-amd64.deb"
         }
     },
+    "nautilus-open-any-terminal": {
+        "repo": "Stunkymonkey/nautilus-open-any-terminal",
+        "file_list": {
+            "all": "nautilus-extension-any-terminal_{version}-1_all.deb"
+        }
+    },
     "neovim": {
         "repo": "neovim/neovim-releases",
         "file_list": {
