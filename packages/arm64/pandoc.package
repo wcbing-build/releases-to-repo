@@ -1,6 +1,6 @@
 Package: pandoc
 Architecture: arm64
-Version: 3.9.0.1-1
+Version: 3.9.0.2-1
 Priority: optional
 Section: text
 Maintainer: John MacFarlane <jgm@berkeley.edu>
@@ -9,12 +9,12 @@ Depends: libc6 (>= 2.13), libgmp10, zlib1g (>= 1:1.1.4)
 Suggests: texlive-latex-recommended, texlive-xetex,
  texlive-fonts-recommended
 Replaces: pandoc-data
-Filename: https://github.com/jgm/pandoc/releases/download/3.9.0.1/pandoc-3.9.0.1-1-arm64.deb
-Size: 36416098
-MD5sum: bff73e9ec67b3c8976c1f68efcffe099
-SHA1: 5c30d8d9fbc6e5b4b3cb967b44252c86cae5fb02
-SHA256: c857b5713b1f3ac4006d5dd8eaa59a83d56657602ce60cc48a293f7d2250ba1d
-SHA512: 0a31956fff2a40385b4b12dbc89e4ef12b9bdf19fb5ed6a7c3b45ed942a85f668ce766deefc4d2985b1afdb95c10815c45d9d3ce22d8dfa2c8a70b82d22a682f
+Filename: https://github.com/jgm/pandoc/releases/download/3.9.0.2/pandoc-3.9.0.2-1-arm64.deb
+Size: 36418982
+MD5sum: e311a99c7a87c77af63fb3e9685c502e
+SHA1: c2aa2f0f88a98a9be7425240ff184fbcb899ef46
+SHA256: 2e77b311be7d1c3b40b5475c6cd5bd44ba02d7d9683e3eecb3324baebf16e4d8
+SHA512: 5af538b2f78080aa321d3aea2594000b49dd449455ce707a743a2d48c5f3880f175db19a1e91f2b6eb3e653ff159299e80c8d67b22fcf07c7575657e055ec483
 Description: general markup converter
   Pandoc is a Haskell library for converting from one markup format
   to another, and a command-line tool that uses this library. The
