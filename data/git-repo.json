@@ -426,4 +426,11 @@
             "arm64": "zyfun-linux-{version}-arm64.deb"
         }
     }
+    "xmcl": {
+        "repo": "https://github.com/Voxelum/x-minecraft-launcher",
+        "file_list": {
+            "amd64": "xmcl-{version}-amd64.deb",
+            "arm64": "xmcl-{version}-arm64.deb"
+        }
+    }
 }
