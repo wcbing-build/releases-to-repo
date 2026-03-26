@@ -24,7 +24,7 @@
     "grpcurl": "v1.9.3",
     "hiddify": "v4.1.1",
     "hoppscotch": "v26.2.1-0",
-    "hugo": "v0.159.0",
+    "hugo": "v0.159.1",
     "joplin": "v3.5.13",
     "koodo-reader": "v2.3.0",
     "localsend": "v1.17.0",
@@ -60,7 +60,7 @@
     "powershell": "v7.6.0",
     "kula": "0.13.0",
     "edrlab.thoriumreader": "v3.3.0",
-    "easypostman": "v5.3.25",
+    "easypostman": "v5.3.26",
     "netease-cloud-music": "v2.0.4",
     "nautilus-open-any-terminal": "0.8.1",
     "xmcl": "v0.54.4"
