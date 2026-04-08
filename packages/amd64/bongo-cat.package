@@ -1,16 +1,16 @@
 Package: bongo-cat
 Architecture: amd64
-Version: 0.9.0
+Version: 1.0.0
 Priority: optional
 Maintainer: ayangweb
-Installed-Size: 16457
+Installed-Size: 16262
 Depends: gstreamer1.0-plugins-good, libwebkit2gtk-4.1-0, libgtk-3-0
-Filename: https://github.com/ayangweb/BongoCat/releases/download/v0.9.0/BongoCat_0.9.0_amd64.deb
-Size: 9218718
-MD5sum: def668223d21c5231eff81a48b044643
-SHA1: e9b8bb71e91f577e3320951c8bb68ac6404a9ff5
-SHA256: 4aaf7ca925d43a92c5605dc6bbdbd8396e52d8aa62a60a53063b8b756a9ecc87
-SHA512: 9bbd626514da52339e34cb12ce6f662186f6e08c053b8d26bd6d5b5b7063bbe3464c7a1f5374b8c12790817cf412335df8565d010c68ea94c1f2dd017a1f8393
+Filename: https://github.com/ayangweb/BongoCat/releases/download/v1.0.0/BongoCat_1.0.0_amd64.deb
+Size: 9187988
+MD5sum: d6d3e1483e1fe3e9e59fe76aeada7aa4
+SHA1: 6bcdfd0fbc9b825d99d3a3e167c85746d255e9b8
+SHA256: a471460afbdc1926386a100ba8b9a048a7005015e8be48d8a26caeaeffcf827a
+SHA512: 326c00fc1fea769edfde854ba0583864c7889f510480458f0b1e12f6e8528fda612d6359a9d360ca3dfc7eb06dce696e8516f34d7f56e9ee50cd2c4d3a3a71bf
 Description: BongoCat
  (none)
 
