@@ -1,18 +1,18 @@
 Package: edrlab.thoriumreader
 Architecture: amd64
-Version: 3.3.0
+Version: 3.4.0
 Priority: optional
 Section: default
 Maintainer: EDRLab <contact@edrlab.org>
-Installed-Size: 367674
+Installed-Size: 377596
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: https://github.com/edrlab/thorium-reader/releases/download/v3.3.0/EDRLab.ThoriumReader_3.3.0_amd64.deb
-Size: 108853468
-MD5sum: ecf8aea2d3ea301b3f279968d35e9e49
-SHA1: f2e634d706787f3707c37cc19ce4dee1b93a8e9b
-SHA256: b0de64eb8fb77a76e92d62cb63ce4eefb069312b5db4be622406b9826a2e53d9
-SHA512: 702d0fff1c8356bc3921706c8d7a979ca5c6079d8e3f129b9e9a6d27cec3d68f90b50d9669bca4a2bf791b52b43aab37ca7ed77534a43f7cf50396110ec2e374
+Filename: https://github.com/edrlab/thorium-reader/releases/download/v3.4.0/EDRLab.ThoriumReader_3.4.0_amd64.deb
+Size: 109613184
+MD5sum: 8b13b8e352ec46f2e3e68e733e39a11f
+SHA1: 5d37fb8b46ed66c93b4c67aed8fbd994297b0783
+SHA256: 9920e2d1bd61ffb17f12b7002abf76208bca30caed683bc2dcde0d25329fa550
+SHA512: dcedc41df1c8214b0c1e2fbf589799a7806832f866759fe91efede7070845d350cbbff3200ef95c6760e88bdfd736ef044b84b72671dca8faa69e1d07945f903
 Homepage: https://github.com/edrlab/readium-desktop
 Description: 
   Desktop application to read ebooks
