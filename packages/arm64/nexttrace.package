@@ -5,11 +5,11 @@ Priority: optional
 Section: net
 Maintainer: wcbing <i@wcbing.top>
 Filename: https://github.com/nxtrace/nexttrace-debs/releases/latest/download/./nexttrace_1.6.1+1_arm64.deb
-Size: 7694244
-MD5sum: 6ba3d42543dc9e917236a66c5e4a7d79
-SHA1: d51f3d455200c3e22d024ce4279a042e00eb3bd8
-SHA256: 16634644f74a21fff4b5418aedf9532e466a40a8a35a1ed345710a4c323363e1
-SHA512: 3379e992ad23d38e0d7922379d2c97a69b2d9cb0c56e3088325b431469341dca09612ffd98ee22fc1c78e825a0d2f027728baf9af112e6af95a8db23b65f2c12
+Size: 7694928
+MD5sum: b30c67a2a6ef14df8c9c8d8088598999
+SHA1: 6195e9e301a2386c2a56f938b7aec8957b2a246f
+SHA256: 488e06460a7c47d5b8fd62da582e59ecc06ceac6fa57a8b59e4b4a2ec7e247e3
+SHA512: 9f17814b40c2aecd04c24e183c8146c240573efbf1bb298e24dde8310e11f1493aa6042a3b8e06e895711ff0ea220325f80ca0956bf7253fadbc4f00e40685e2
 Homepage: https://www.nxtrace.org
-Description:  NextTrace, an open source visual route tracking CLI tool
+Description: NextTrace full CLI with traceroute, MTR, Globalping, and WebUI
 
