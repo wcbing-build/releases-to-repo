@@ -1,18 +1,18 @@
 Package: waveterm
 Architecture: amd64
-Version: 0.14.4
+Version: 0.14.5
 Priority: optional
 Section: default
 Maintainer: Command Line Inc <info@commandline.dev>
-Installed-Size: 603960
+Installed-Size: 587498
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: https://github.com/wavetermdev/waveterm/releases/download/v0.14.4/waveterm-linux-amd64-0.14.4.deb
-Size: 163983896
-MD5sum: 92a53d7621ce09ee1b32b523962aaab3
-SHA1: 4c5b81b8cb9a0bc1a5047d8f41571483f099ac0b
-SHA256: 94d7fe3ff4aeaefb94d7e45d896fb523df501835463261f0c36b6d19e16be3fc
-SHA512: 42879e0640958d03488fdeb5b52f648ccdc4feb51b225461bb2f6cc41f723394f77e3dbdc96933e1c5f82790f1b65ebfbc555c481bb46d68d426ca733c85e2f9
+Filename: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/waveterm-linux-amd64-0.14.5.deb
+Size: 160100992
+MD5sum: 2efa557e2297ae2020e2e29197fd381e
+SHA1: a66e00dcc8265efe5b87925f51d9146c55feb83d
+SHA256: 691ace562e66a20d9727b8beeaf98fe64a445df65523bb1fd11ed30f56fd137b
+SHA512: 1dd6141fbdd66ff0a22692e5a364451de7715a3922bb0ea5f2032c0c0967bceddea91a65f08f802f90a6a01bfe8bfc91655420a946f15b868782f604af24c47d
 Homepage: https://waveterm.dev
 Description: Open-Source AI-Native Terminal Built for Seamless Workflows
   Open-Source AI-Native Terminal Built for Seamless Workflows
