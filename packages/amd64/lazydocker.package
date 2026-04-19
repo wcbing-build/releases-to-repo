@@ -1,16 +1,16 @@
 Package: lazydocker
 Architecture: amd64
-Version: 0.25.0-1
+Version: 0.25.2+1
 Priority: optional
 Section: utils
 Maintainer: wcbing <i@wcbing.top>
-Installed-Size: 12576
-Filename: https://github.com/wcbing-build/lazydocker-debs/releases/latest/download/./lazydocker_0.25.0-1_amd64.deb
-Size: 3681300
-MD5sum: d973d794b4db4f960eee72ad578c81b5
-SHA1: 3c1f7e2da0d7baedd16095c5903c2e873ff827af
-SHA256: fb5326c82a14ac7447795f1fe295209bbf3eae7b6097e02ad99f2a2dc1359763
-SHA512: afc30b5bf6d34a51c280c7b543e8b7129687448e7487a3496a81804425645f2d0d65c1b9bb53901a98b174336bf23ecf6e1c919f06231296fa823cc65a127388
+Installed-Size: 12584
+Filename: https://github.com/wcbing-build/lazydocker-debs/releases/latest/download/./lazydocker_0.25.2+1_amd64.deb
+Size: 3683604
+MD5sum: 92afd9b8177868ebdbf020adca8df7e8
+SHA1: 4f68e832a807ceb6869deee3eca8f8737f863c14
+SHA256: fe09a0ee3c3a82ad35f30485f514f76a95a75506bb98111f46f2000ae4ce056f
+SHA512: 873ed29578a01d4e2cb082864ce346308bf5b8b6696edbadf07e0b61170cae1b4b8f6b0b724ae44d31ac681c93d8ca24d516c2ce18e6e3602ddb73be4b79aa86
 Homepage: https://github.com/jesseduffield/lazydocker
 Description: The lazier way to manage everything docker
  A simple terminal UI for both docker and docker-compose,
