@@ -1,7 +1,7 @@
 {
     "balena-etcher": "v2.1.4",
     "bat": "v0.26.1",
-    "bongo-cat": "v1.0.0",
+    "bongo-cat": "v1.1.0",
     "bottom": "0.12.3",
     "caddy": "v2.11.2",
     "cherrystudio": "v1.9.1",
@@ -28,7 +28,7 @@
     "joplin": "v3.5.13",
     "koodo-reader": "v2.3.2",
     "localsend": "v1.17.0",
-    "mihomo": "v1.19.23",
+    "mihomo": "v1.19.24",
     "mqttx": "v1.13.0",
     "musicfree": "v0.0.8",
     "neovim": "v0.12.1",
