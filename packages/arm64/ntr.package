@@ -1,15 +1,15 @@
 Package: ntr
 Architecture: arm64
-Version: 1.6.2+1
+Version: 1.6.4+1
 Priority: optional
 Section: net
 Maintainer: wcbing <i@wcbing.top>
-Filename: https://github.com/nxtrace/nexttrace-debs/releases/latest/download/./ntr_1.6.2+1_arm64.deb
-Size: 3687056
-MD5sum: cea5f14480b7f5acfffd2fda1b5378df
-SHA1: bac72addee6b214e355ece467703060dc0d2f009
-SHA256: 0e719212fdb1dcad73eb29858e4308deb89352258d3562656803d369a1ef384f
-SHA512: 71848d0972a6f0c86c5de2a17a9be75beecb9e9b9d13e9e19b1e350f41c3d76abeb1e128498f1a0d26e7143349f16898dd5f953b1c9bd37ea5cc366786f674f0
+Filename: https://github.com/nxtrace/nexttrace-debs/releases/latest/download/./ntr_1.6.4+1_arm64.deb
+Size: 3887704
+MD5sum: 6ee3a86aa1c2c7fe22e97b091e4fe3d4
+SHA1: d6baaed3d6fdc0cf5f78aeb70394b606ab659add
+SHA256: d8c5a49809ab8703f0e4a5aba9edcb6d9cd4e3b217c7478a067ba9cba8fe0b26
+SHA512: 3afd336027315296b1c0fcd7fe99bd2185ce7a274d91c2802f62bd7b8c63779c0b1213796d929c61c20a0abbef67bbf91a3a2f9fa4d7d9fd32797192f14927c8
 Homepage: https://www.nxtrace.org
 Description: NextTrace CLI focused on MTR workflows
 
