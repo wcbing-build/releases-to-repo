@@ -5,7 +5,7 @@ Priority: optional
 Section: utils
 Maintainer: wcbing <i@wcbing.top>
 Installed-Size: 12584
-Filename: https://github.com/wcbing-build/lazydocker-debs/releases/latest/download/./lazydocker_0.25.2+1_amd64.deb
+Filename: https://github.com/wcbing-apt-repo/lazydocker-debs/releases/latest/download/./lazydocker_0.25.2+1_amd64.deb
 Size: 3683604
 MD5sum: 92afd9b8177868ebdbf020adca8df7e8
 SHA1: 4f68e832a807ceb6869deee3eca8f8737f863c14

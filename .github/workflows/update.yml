@@ -21,7 +21,6 @@ jobs:
         # 脚本中的 logging (stderr) 将不会被重定向，仍会打印到 job 日志。
         run: |
           ./get-git-releases.py > release_notes
-          ./merge-apt-repo.py
 
       - name: Check for changes
         id: changes

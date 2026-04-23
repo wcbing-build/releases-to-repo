@@ -22,26 +22,34 @@
 | [DBeaver](https://github.com/dbeaver/dbeaver) | dbeaver-ce | ✅ | |
 | [draw.io](https://github.com/jgraph/drawio-desktop) | draw.io | ✅ | ✅ |
 | [Dust](https://github.com/bootandy/dust) | du-dust | ✅ | |
+| [Dufs](https://github.com/wcbing-apt-repo/dufs-debs)* | dufs | ✅ | ✅ |
 | [EasyPostman](https://github.com/lakernote/EasyPostman) | easypostman | ✅ | ✅ |
 | [Thorium Reader](https://github.com/edrlab/thorium-reader) | edrlab.thoriumreader | ✅ | ✅ |
 | [Fastfetch](https://github.com/fastfetch-cli/fastfetch) | fastfetch | ✅ | ✅ |
+| [File Browser](https://github.com/wcbing-apt-repo/filebrowser-debs)* | filebrowser | ✅ | ✅ |
 | [Flameshot](https://github.com/flameshot-org/flameshot) | flameshot | ✅ | |
 | [FlClash](https://github.com/chen08209/FlClash) | flclash | ✅ | ✅ |
 | [Foliate](https://github.com/johnfactotum/foliate) | foliate | ✅ | ✅ |
 | [fooyin](https://github.com/fooyin/fooyin) | fooyin | ✅ | |
 | [Fresh](https://github.com/sinelaw/fresh) | fresh-editor | ✅ | ✅ |
+| [frp](https://github.com/wcbing-apt-repo/frp-debs)* | frps<br />frpc | ✅ | ✅ |
 | [gRPCurl](https://github.com/fullstorydev/grpcurl) | grpcurl | ✅ | ✅ |
 | [Hiddify](https://github.com/hiddify/hiddify-app) | hiddify | ✅ | |
+| [Himalaya](https://github.com/wcbing-apt-repo/himalaya-debs)* | himalaya | ✅ | ✅ |
 | [Hoppscotch](https://github.com/hoppscotch/releases) | hoppscotch | ✅ | |
 | [hugo](https://github.com/gohugoio/hugo) | hugo | ✅ | ✅ |
 | [Joplin](https://github.com/laurent22/joplin) | joplin | ✅ | |
 | [Koodo Reader](https://github.com/koodo-reader/koodo-reader) | koodo-reader | ✅ | ✅ |
 | [Kula](https://github.com/c0m4r/kula) | kula | ✅ | ✅ |
+| [Lazydocker](https://github.com/wcbing-apt-repo/lazydocker-debs)* | lazydocker | ✅ | ✅ |
+| [Lazygit](https://github.com/wcbing-apt-repo/lazygit-debs)* | lazygit | ✅ | ✅ |
 | [LocalSend](https://github.com/localsend/localsend) | localsend | ✅ | ✅ |
 | [mihomo](https://github.com/MetaCubeX/mihomo) | mihomo | ✅ | ✅ |
 | [MQTTX](https://github.com/emqx/MQTTX) | mqttx | ✅ | ✅ |
+| [Microsoft Edit](https://github.com/wcbing-apt-repo/msedit-debs)* | msedit | ✅ | ✅ |
 | [MusicFree](https://github.com/maotoumao/MusicFreeDesktop) | musicfree | ✅ | |
 | [nautilus-open-any-terminal](https://github.com/Stunkymonkey/nautilus-open-any-terminal) | nautilus-extension-any-terminal | ✅ | ✅ |
+| [Neovide](https://github.com/wcbing-apt-repo/neovide-debs)* | neovide | ✅ | |
 | [Neovim/Nvim](https://github.com/neovim/neovim-releases) | neovim | ✅ | |
 | [网易云音乐 - Web 版](https://github.com/elysia-best/netease-cloud-music-web) | netease-cloud-music | ✅ | ✅ |
 | [NextTrace](https://github.com/nxtrace/nexttrace-debs) | nexttrace<br />nexttrace-tiny | ✅ | ✅ |
@@ -57,6 +65,7 @@
 | [思源笔记](https://github.com/siyuan-note/siyuan) | siyuan | ✅ | ✅ |
 | [Sparkle](https://github.com/xishang0128/sparkle) | sparkle | ✅ | ✅ |
 | [SPlayer](https://github.com/imsyy/SPlayer) | splayer | ✅ | ✅ |
+| [superfile](https://github.com/wcbing-apt-repo/superfile-debs)* | superfile | ✅ | ✅ |
 | [Systemd manager tui](https://github.com/matheus-git/systemd-manager-tui) | systemd-manager-tui | ✅ | ✅ |
 | [Tabby](https://github.com/Eugeny/tabby) | tabby-terminal | ✅ | ✅ |
 | [TinyGo](https://github.com/tinygo-org/tinygo) | tinygo | ✅ | ✅ |
@@ -72,21 +81,7 @@
 | [YesPlayMusic](https://github.com/qier222/YesPlayMusic) | yesplaymusic | ✅ | ✅ |
 | [zyfun[ZyPlayer]](https://github.com/Hiram-Wong/ZyPlayer) | zyfun | ✅ | ✅ |
 
-
-### APT Repositories on Github
-
-| 软件名 | 包名 | amd64 | arm64 |
-| ------ | ---- | ----- | ----- |
-| [Dufs](https://github.com/wcbing-build/dufs-debs) | dufs | ✅ | ✅ |
-| [File Browser](https://github.com/wcbing-build/filebrowser-debs) | filebrowser | ✅ | ✅ |
-| [frp](https://github.com/wcbing-build/frp-debs) | frps<br />frpc | ✅ | ✅ |
-| [Himalaya](https://github.com/wcbing-build/himalaya-debs) | himalaya | ✅ | ✅ |
-| [Lazydocker](https://github.com/wcbing-build/lazydocker-debs) | lazydocker | ✅ | ✅ |
-| [Lazygit](https://github.com/wcbing-build/lazygit-debs) | lazygit | ✅ | ✅ |
-| [Microsoft Edit](https://github.com/wcbing-build/msedit-debs) | msedit | ✅ | ✅ |
-| [Neovide](https://github.com/wcbing-build/neovide-debs) | neovide | ✅ | |
-| [superfile](https://github.com/wcbing-build/superfile-debs) | superfile | ✅ | ✅ |
-
+> * means packed by wcbing-apt-repo
 
 ## 存档或不活跃
 

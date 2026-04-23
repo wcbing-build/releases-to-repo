@@ -4,7 +4,7 @@ Version: 1.2.0-1
 Priority: optional
 Section: editors
 Maintainer: wcbing <i@wcbing.top>
-Filename: https://github.com/wcbing-build/msedit-debs/releases/latest/download/./msedit_1.2.0-1_arm64.deb
+Filename: https://github.com/wcbing-apt-repo/msedit-debs/releases/latest/download/./msedit_1.2.0-1_arm64.deb
 Size: 98416
 MD5sum: ae1927bfa9fba4a8833b66204868b27c
 SHA1: 48c53f0e3dd0bf65d8fdf78385a36dc7a41dbbd1

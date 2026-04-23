@@ -6,7 +6,7 @@ Section: editors
 Maintainer: wcbing <i@wcbing.top>
 Installed-Size: 34104
 Depends: neovim
-Filename: https://github.com/wcbing-build/neovide-debs/releases/latest/download/./neovide_0.15.2-1_amd64.deb
+Filename: https://github.com/wcbing-apt-repo/neovide-debs/releases/latest/download/./neovide_0.15.2-1_amd64.deb
 Size: 9052100
 MD5sum: 49f1e762f1c47fea7d23e54f3c97e5da
 SHA1: fb4cf6064d226d4a7ac458a318991a828327bb5a

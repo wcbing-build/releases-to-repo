@@ -4,7 +4,7 @@ Version: 0.45.0-1
 Priority: optional
 Section: web
 Maintainer: wcbing <i@wcbing.top>
-Filename: https://github.com/wcbing-build/dufs-debs/releases/latest/download/./dufs_0.45.0-1_arm64.deb
+Filename: https://github.com/wcbing-apt-repo/dufs-debs/releases/latest/download/./dufs_0.45.0-1_arm64.deb
 Size: 1564068
 MD5sum: bbdc409bc0894ec9720686afb5b14197
 SHA1: d062749b00646a70401f8ff7591a668390691b8d

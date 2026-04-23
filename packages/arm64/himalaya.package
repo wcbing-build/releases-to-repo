@@ -5,7 +5,7 @@ Priority: optional
 Section: mail
 Maintainer: wcbing <i@wcbing.top>
 Installed-Size: 27344
-Filename: https://github.com/wcbing-build/himalaya-debs/releases/latest/download/./himalaya_1.2.0-1_arm64.deb
+Filename: https://github.com/wcbing-apt-repo/himalaya-debs/releases/latest/download/./himalaya_1.2.0-1_arm64.deb
 Size: 5947232
 MD5sum: 572c906c0e3599aa86f80fa063f31624
 SHA1: 6c717bf85f3248c8b1a2984893dc92c887bfd1e8

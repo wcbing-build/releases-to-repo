@@ -5,7 +5,7 @@ Priority: optional
 Section: web
 Maintainer: wcbing <i@wcbing.top>
 Installed-Size: 16348
-Filename: https://github.com/wcbing-build/frp-debs/releases/latest/download/./frpc_0.68.1+1_amd64.deb
+Filename: https://github.com/wcbing-apt-repo/frp-debs/releases/latest/download/./frpc_0.68.1+1_amd64.deb
 Size: 4817540
 MD5sum: d535180501a79c8337764c8f949e5399
 SHA1: 8eb8f6b0c9e056ec138cca4e87ac59aa832bfa3e

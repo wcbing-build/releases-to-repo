@@ -63,5 +63,16 @@
     "easypostman": "v5.4.15",
     "netease-cloud-music": "v2.0.4",
     "nautilus-open-any-terminal": "0.8.1",
-    "xmcl": "v0.54.4"
+    "xmcl": "v0.54.4",
+    "dufs": "v0.45.0",
+    "filebrowser": "v2.63.2",
+    "frpc": "v0.68.1",
+    "frps": "v0.68.1",
+    "himalaya": "v1.2.0",
+    "lazydocker": "v0.25.2",
+    "lazygit": "v0.61.1",
+    "msedit": "v1.2.1",
+    "neovide": "0.15.2",
+    "nexttrace": "v1.6.4",
+    "superfile": "v1.5.0"
 }
