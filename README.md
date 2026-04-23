@@ -44,6 +44,7 @@
 | [nautilus-open-any-terminal](https://github.com/Stunkymonkey/nautilus-open-any-terminal) | nautilus-extension-any-terminal | ✅ | ✅ |
 | [Neovim/Nvim](https://github.com/neovim/neovim-releases) | neovim | ✅ | |
 | [网易云音乐 - Web 版](https://github.com/elysia-best/netease-cloud-music-web) | netease-cloud-music | ✅ | ✅ |
+| [NextTrace](https://github.com/nxtrace/nexttrace-debs) | nexttrace<br />nexttrace-tiny | ✅ | ✅ |
 | [Obsidian](https://github.com/obsidianmd/obsidian-releases) | obsidian | ✅ | |
 | [OnlyOffice 桌面编辑器](https://github.com/ONLYOFFICE/DesktopEditors) | onlyoffice-desktopeditors | ✅ | |
 | [Pandoc](https://github.com/jgm/pandoc) | pandoc | ✅ | ✅ |
@@ -84,7 +85,6 @@
 | [Lazygit](https://github.com/wcbing-build/lazygit-debs) | lazygit | ✅ | ✅ |
 | [Microsoft Edit](https://github.com/wcbing-build/msedit-debs) | msedit | ✅ | ✅ |
 | [Neovide](https://github.com/wcbing-build/neovide-debs) | neovide | ✅ | |
-| [NextTrace](https://github.com/nxtrace/nexttrace-debs) | nexttrace | ✅ | ✅ |
 | [superfile](https://github.com/wcbing-build/superfile-debs) | superfile | ✅ | ✅ |
 
 

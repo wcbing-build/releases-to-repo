@@ -47,12 +47,6 @@
             "mix": "Packages"
         }
     },
-    "nexttrace": {
-        "repo": "https://github.com/nxtrace/nexttrace-debs/releases/latest/download/",
-        "path": {
-            "mix": "Packages"
-        }
-    },
     "superfile": {
         "repo": "https://github.com/wcbing-build/superfile-debs/releases/latest/download/",
         "path": {
