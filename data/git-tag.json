@@ -4,7 +4,7 @@
     "bongo-cat": "v1.1.0",
     "bottom": "0.12.3",
     "caddy": "v2.11.2",
-    "cherrystudio": "v1.9.2",
+    "cherrystudio": "v1.9.3",
     "chezmoi": "v2.70.2",
     "clash-verge": "v2.4.7",
     "cloudflared": "2026.3.0",
@@ -47,7 +47,7 @@
     "systemd-manager-tui": "v1.2.4",
     "tabby-terminal": "v1.0.231",
     "tinygo": "v0.41.1",
-    "tinyrdm": "v1.2.6",
+    "tinyrdm": "v1.2.7",
     "trippy": "0.13.0",
     "ulauncher": "5.15.15",
     "uotantoolbox": "3.6.1",
@@ -75,5 +75,6 @@
     "neovide": "0.15.2",
     "nexttrace": "v1.6.4",
     "superfile": "v1.5.0",
-    "nexttrace-tiny": "v1.6.4"
+    "nexttrace-tiny": "v1.6.4",
+    "ghost-downloader": "v3.8.2"
 }

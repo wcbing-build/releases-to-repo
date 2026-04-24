@@ -1,16 +1,16 @@
 Package: tinyrdm
 Architecture: amd64
-Version: 1.2.6
+Version: 1.2.7
 Priority: optional
 Section: base
 Maintainer: tiny-craft <lykinhuang@outlook.com>
 Depends: libwebkit2gtk-4.1-0
-Filename: https://github.com/tiny-craft/tiny-rdm/releases/download/v1.2.6/tiny-rdm_1.2.6_linux_amd64_webkit2_41.deb
-Size: 7133748
-MD5sum: 3d9290791cdfe6ea1052fa8c22d4b4ca
-SHA1: 01803fac3e128d425ee627271121fa07678755b7
-SHA256: 84607756531c96264db3ad1af2c850e08abbe514c7d32d94f2dd2b2444b8b583
-SHA512: 8f1ccda78ccf8ec916432737fdc37af6c13d41d5000786097467f4fde4187647b7c240c79d2de4aa588d15f6a752be6476a0a85bdd7b0eb851137f83cb5bddfe
-Homepage: https://redis.tinycraft.cc/
+Filename: https://github.com/tiny-craft/tiny-rdm/releases/download/v1.2.7/tiny-rdm_1.2.7_linux_amd64_webkit2_41.deb
+Size: 7144260
+MD5sum: 8d1bac67a7678434059a131eef721f4e
+SHA1: d7974194396fdc90dfd929d0fe8fc85152f82f8e
+SHA256: 3b89658d18b5331155d8380d327290921d867291a63d475e128aafc330401c0c
+SHA512: e7468f2537feacc5cdfbd37ee8ddf7b238014f85ea6893b9e19d2b5c4fbce68251dd9501c11e904c8603e1e626a40ab13b7792b6c3e2fd5f4cf6bb72f3ae6abd
+Homepage: https://tinyrdm.com/
 Description: Tiny Redis Desktop Manager
 
