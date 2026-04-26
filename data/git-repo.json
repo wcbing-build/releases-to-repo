@@ -2,8 +2,8 @@
     "alixby": {
         "repo": "gaozhangmin/aliyunpan",
         "file_list": {
-            "amd64": "alixby-{version}-linux-amd64.deb "
-            "arm64": "alixby-{version}-linux-arm64.deb "
+            "amd64": "xbyboxplayer-{version}-linux-amd64.deb "
+            "arm64": "xbyboxplayer-{version}-linux-arm64.deb "
         }
     },
     "balena-etcher": {
