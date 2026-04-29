@@ -1,15 +1,15 @@
 Package: hugo
 Architecture: amd64
-Version: 0.161.0
+Version: 0.161.1
 Priority: optional
 Maintainer: Bjørn Erik Pedersen <bjorn.erik.pedersen@gmail.com>
-Installed-Size: 53486
-Filename: https://github.com/gohugoio/hugo/releases/download/v0.161.0/hugo_extended_0.161.0_linux-amd64.deb
-Size: 20293120
-MD5sum: 98af170cfed53182a2bfb3221e384bc8
-SHA1: 4e4f96dbd54ccbdcbc7a68b22300928c8b64c05d
-SHA256: 793fdfc585ef678c70b17e3b9b5736871fc9ec5a3d2ab28539e720f8abad07dd
-SHA512: 2b488c31c6d11442d781b37e4b762d5b0ce1867f44ee9823cd7d8021a3546385e5371162d9daf5fb8a651a74f0592f2a15d60f54258ba14072a9b8ee09f2f30f
+Installed-Size: 53471
+Filename: https://github.com/gohugoio/hugo/releases/download/v0.161.1/hugo_extended_0.161.1_linux-amd64.deb
+Size: 20323862
+MD5sum: 1417327af561820bf7a7ec22214b2649
+SHA1: 1d8e9f92909105f8e50d830e89bc5abb486bdbfc
+SHA256: c89632f5bd7727746df2560313dc5dbeebef0a8823566c6479dbdd3c4f06aad9
+SHA512: b4561f424ab7e647d5179dbff69eb6be2eca7d10a07d4694e4bd6c69fce551f6b4a441e3b873770b20589695735392fff4afefa643dd9bbaad1c056426ec2f4e
 Homepage: https://github.com/gohugoio/hugo
 Description: A fast and flexible Static Site Generator written in Go.
 

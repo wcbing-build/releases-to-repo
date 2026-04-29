@@ -1,17 +1,17 @@
 Package: fresh-editor
 Architecture: amd64
-Version: 0.3.1-1
+Version: 0.3.2-1
 Priority: optional
 Section: editors
 Maintainer: Noam Lewis
-Installed-Size: 57744
+Installed-Size: 57676
 Depends: libc6 (>= 2.30)
-Filename: https://github.com/sinelaw/fresh/releases/download/v0.3.1/fresh-editor_0.3.1-1_amd64.deb
-Size: 11058720
-MD5sum: dba1fddb335c400a388e6fead962529d
-SHA1: e77b6e1b7989b322521f8fb94b9cfde6a286f41e
-SHA256: 0209a10903cb6dbd28cec6e69f839a7972acf29142569be3c0b54ce10a77ee19
-SHA512: 59796ada44a7df274990823649aa887f391818d5f0d9e88ffc968770ddbffb5fa9293e0ed1040004466de1d548549acd69cd8aa80e1af4638c51acb37bb98dad
+Filename: https://github.com/sinelaw/fresh/releases/download/v0.3.2/fresh-editor_0.3.2-1_amd64.deb
+Size: 11215852
+MD5sum: 1eacba99762b87a759febd555fdb442b
+SHA1: ce88ff88b3cae8d6c1cd691bd191b1cc71535434
+SHA256: 10597a81f1a35390232584387b0e634db132e0207ff7f5bce99f894c2a760e75
+SHA512: b54239ccc3ce5708f2705caa0c9102223f79a0b5e1bc30fdd5b06f9ab1e072d6a04fed9cafc0a20ede2699a186786ade48b3158a235866cb1f6a71bf604ce16d
 Homepage: https://sinelaw.github.io/fresh/
 Description: A lightweight, fast terminal-based text editor with LSP support and TypeScript
  plugins
