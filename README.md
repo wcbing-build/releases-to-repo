@@ -1,8 +1,25 @@
 # Git Releases to APT repo
 
-这是 [wcbing APT Repo](https://github.com/wcbing/wcbing-apt-repo) 的一部分。
+为通过类似 Github Releases 渠道分发 deb 软件包的软件构建的一个 APT 仓库。这是 [wcbing APT Repo](https://github.com/wcbing/wcbing-apt-repo) 的一部分，也可单独使用。
 
-## 定时检测中
+> “wcbing APT Repo”包含更多软件，同时为中国地区用户提供了提供了“转发至 Github 代理”服务。
+
+An APT repository built for software that distributes deb packages through a Github Releases-like channel. This is part of the [wcbing APT Repo](https://github.com/wcbing/wcbing-apt-repo) and is available separately.
+
+> The 'wcbing APT Repo' includes more software and provides a "forward to Github proxy" service for users in China.
+
+
+## 如何使用 - How to use
+
+For Debian 11+ / Ubuntu 22.04+:
+
+```sh
+curl -s https://raw.githubusercontent.com/wcbing-apt-repo/releases-to-repo/refs/heads/master/releases-to-repo.sources | sudo tee /etc/apt/sources.list.d/releases-to-repo.sources
+sudo apt update
+```
+
+
+## ⏲️ 定时检测 - Scheduled detection
 
 | 软件名 | 包名 | amd64 | arm64 |
 | ----- | ---- | ----- | ----- |
@@ -82,9 +99,12 @@
 | [YesPlayMusic](https://github.com/qier222/YesPlayMusic) | yesplaymusic | ✅ | ✅ |
 | [zyfun[ZyPlayer]](https://github.com/Hiram-Wong/ZyPlayer) | zyfun | ✅ | ✅ |
 
-> * means packed by wcbing-apt-repo
 
-## 存档或不活跃
+> \* 表示由 wcbing-apt-repo 打包
+
+> \* means packed by wcbing-apt-repo
+
+## 🗃️ 存档或不活跃 - Archived or inactive
 
 | 软件名 | 包名 | amd64 | arm64 |
 | ----- | --- | ----- | ----- |
