@@ -3,10 +3,10 @@ Architecture: amd64
 Version: 0.15.0
 Maintainer: c0m4r
 Filename: https://github.com/c0m4r/kula/releases/download/0.15.0/kula-0.15.0-amd64.deb
-Size: 4464368
-MD5sum: e5bb0ff2d3b0d31dc19600613232bc8d
-SHA1: fed04ab98b225d2b46fc0862e007eed2cea0a253
-SHA256: 7989fc04db0130d479acff6e408149a8ea81938d9e2356f96a166e00e2180586
-SHA512: af4ff4b64e9bf9e8f4c8e5275be1446ab44109c24c12ba0c313d5d3eadb828ed882100835a16d5e3ecaa667a0d63e34fda3dcfc1d98804239039b9944cee7349
+Size: 4227708
+MD5sum: 8270c22e70e70dfa1f3cfc35e40d251d
+SHA1: 32ce6ba22fcd5dcfed278b2c235978827db92a52
+SHA256: de193f1561375c6e55089f3b5af22d63205f42d6118608e5093344cc6b119e60
+SHA512: e00cdc793bfc41170ddd274ed8b663cb4c524c477d5ad3ea3eef96e0360bd9429ec1416fd931abf4baff967aac0d8b6ca72b58d1193643ed71579dc5a972d9c9
 Description: Lightweight system monitoring daemon.
 
