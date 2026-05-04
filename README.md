@@ -23,6 +23,7 @@ sudo apt update
 
 | 软件名 | 包名 | amd64 | arm64 |
 | ----- | ---- | ----- | ----- |
+| [alixby](https://github.com/gaozhangmin/aliyunpan) | alixby | ✅ | ✅ |
 | [balenaEtcher](https://github.com/balena-io/etcher) | balena-etcher | ✅ | |
 | [bat](https://github.com/sharkdp/bat) | bat | ✅ | ✅ |
 | [BongoCat](https://github.com/ayangweb/BongoCat) | bongo-cat | ✅ | ✅ |
