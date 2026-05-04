@@ -45,7 +45,7 @@
     "sparkle": "1.26.4",
     "splayer": "v3.0.0",
     "systemd-manager-tui": "v1.2.4",
-    "tabby-terminal": "v1.0.231",
+    "tabby-terminal": "v1.0.232",
     "tinygo": "v0.41.1",
     "tinyrdm": "v1.2.7",
     "trippy": "0.13.0",
@@ -76,5 +76,5 @@
     "nexttrace": "v1.6.4",
     "superfile": "v1.5.0",
     "nexttrace-tiny": "v1.6.4",
-    "ghost-downloader": "v3.8.2"
+    "ghost-downloader": "v3.8.3"
 }
