@@ -50,6 +50,7 @@ sudo apt update
 | [fooyin](https://github.com/fooyin/fooyin) | fooyin | ✅ | |
 | [Fresh](https://github.com/sinelaw/fresh) | fresh-editor | ✅ | ✅ |
 | [frp](https://github.com/wcbing-apt-repo/frp-debs)* | frps<br />frpc | ✅ | ✅ |
+| [Frpc-Desktop](https://github.com/luckjiawei/frpc-desktop) | frpc-desktop | ✅ | ✅ |
 | [Ghost-Downloader](https://github.com/XiaoYouChR/Ghost-Downloader-3) | ghost-downloader | ✅ | ✅ |
 | [gRPCurl](https://github.com/fullstorydev/grpcurl) | grpcurl | ✅ | ✅ |
 | [Hiddify](https://github.com/hiddify/hiddify-app) | hiddify | ✅ | |

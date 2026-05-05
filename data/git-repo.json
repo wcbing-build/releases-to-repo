@@ -189,6 +189,13 @@
             "arm64": "frps_{version}+1_arm64.deb"
         }
     },
+    "frpc-desktop": {
+        "repo": "luckjiawei/frpc-desktop",
+        "file_list": {
+            "amd64": "Frpc-Desktop_{version}_amd64.deb",
+            "arm64": "Frpc-Desktop_{version}_arm64.deb"
+        }
+    },
     "ghost-downloader": {
         "repo": "XiaoYouChR/Ghost-Downloader-3",
         "file_list": {
