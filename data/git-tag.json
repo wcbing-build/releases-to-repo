@@ -76,5 +76,6 @@
     "nexttrace": "v1.6.4",
     "superfile": "v1.5.0",
     "nexttrace-tiny": "v1.6.4",
-    "ghost-downloader": "v3.8.3"
+    "ghost-downloader": "v3.8.3",
+    "frpc-desktop": "v1.2.5"
 }
