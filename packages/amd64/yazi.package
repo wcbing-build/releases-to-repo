@@ -1,34 +1,33 @@
 Package: yazi
 Architecture: amd64
-Version: 26.1.22-1
+Version: 26.5.6-1
 Priority: optional
 Section: utility
 Maintainer: sxyazi <sxyazi@gmail.com>
-Installed-Size: 24250
+Installed-Size: 25961
 Depends: 7zip, fd-find|fd, ffmpeg, file, fzf, imagemagick, jq, poppler-utils, ripgrep, xsel|xclip|wl-clipboard, zoxide
 Recommends: bash-completion
-Filename: https://github.com/sxyazi/yazi/releases/download/v26.1.22/yazi-x86_64-unknown-linux-musl.deb
-Size: 7020720
-MD5sum: bb3177d97e26862b2d0a926c62af3aa4
-SHA1: d35646348086f85a86152fb78c229dfd43417f69
-SHA256: 06c815898ffa4f80391bd5f42512be1b7532c204f0dfc8ffd8b02cc26d58db7d
-SHA512: 24b6682d0aacd52cba24090eae47ecb9e66a7a9dd185158afd505138d4e856f6b81c115db6f9c7afd27e219075da5dfaf519bc6c45af91a8d9d2f32214f7ac77
+Filename: https://github.com/sxyazi/yazi/releases/download/v26.5.6/yazi-x86_64-unknown-linux-musl.deb
+Size: 7353688
+MD5sum: e66e5cf7b1bad5d2ff21908e3b2e1b61
+SHA1: c068382a4eb6977601c9b6c2a31616352b1bd0d5
+SHA256: 41b80a7af684e681f645db298fe6b4e56c6febe4530daa7877653e58f7be9bc8
+SHA512: 12739639a8ebdec2b9bb7a8d44361494d3a371f1ff6d8af2daaca3a80e7188266c8a333ef69580bf8b86d576a57829ee1b83f5891782d109b8c64e526c0aeee4
 Homepage: https://yazi-rs.github.io
 Description: Yazi packing
  <div align="center">
-   <a href="https://go.warp.dev/yazi" target="_blank">
-     <sup>Special thanks to:</sup>
-     <br>
-     <img alt="Warp sponsorship" width="400"
- src="https://github.com/warpdotdev/brand-assets/blob/main/Github/Sponsor/Warp-Github-LG-02.png">
-     <br>
-     <h>Warp, built for coding with multiple AI agents</b>
-     <br>
-     <sup>Available for macOS, Linux and Windows</sup>
-   </a>
- </div>
+   <sup>Special thanks to:</sup><br>
  .
- <br>
+ | <a href="https://go.warp.dev/yazi" target="_blank"><img alt="Warp
+ sponsorship" width=350
+ src="https://github.com/warpdotdev/brand-assets/blob/main/Github/Sponsor/Warp-Github-LG-02.png"><br><b>Warp,
+ built for coding with multiple AI agents</b><br><sup>Available for macOS, Linux
+ and Windows</sup></a> |
+ |
+ -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ |
+ .
+ </div>
  .
  ## Yazi - ⚡️ Blazing Fast Terminal File Manager
  .
@@ -91,58 +90,58 @@ Description: Yazi packing
  .
  | Platform                                                                    
  | Protocol                               | Support                             
-     |
+   |
  | ----------------------------------------------------------------------------
  | -------------------------------------- |
- ---------------------------------------- |
+ -------------------------------------- |
  | [kitty](https://github.com/kovidgoyal/kitty) (>= 0.28.0)                    
  | [Kitty unicode placeholders][kgp]      | ✅ Built-in                        
-      |
+    |
  | [iTerm2](https://iterm2.com)                                                
  | [Inline images protocol][iip]          | ✅ Built-in                        
-      |
+    |
  | [WezTerm](https://github.com/wez/wezterm)                                   
  | [Inline images protocol][iip]          | ✅ Built-in                        
-      |
+    |
  | [Konsole](https://invent.kde.org/utilities/konsole)                         
  | [Kitty old protocol][kgp-old]          | ✅ Built-in                        
-      |
+    |
  | [foot](https://codeberg.org/dnkl/foot)                                      
  | [Sixel graphics format][sixel]         | ✅ Built-in                        
-      |
+    |
  | [Ghostty](https://github.com/ghostty-org/ghostty)                           
  | [Kitty unicode placeholders][kgp]      | ✅ Built-in                        
-      |
+    |
  | [Windows Terminal](https://github.com/microsoft/terminal) (>= v1.22.10352.0)
  | [Sixel graphics format][sixel]         | ✅ Built-in                        
-      |
+    |
  | [st with Sixel patch](https://github.com/bakkeby/st-flexipatch)             
  | [Sixel graphics format][sixel]         | ✅ Built-in                        
-      |
+    |
  | [Warp](https://www.warp.dev) (macOS/Linux only)                             
  | [Inline images protocol][iip]          | ✅ Built-in                        
-      |
+    |
  | [Tabby](https://github.com/Eugeny/tabby)                                    
  | [Inline images protocol][iip]          | ✅ Built-in                        
-      |
+    |
  | [VSCode](https://github.com/microsoft/vscode)                               
  | [Inline images protocol][iip]          | ✅ Built-in                        
-      |
- | [Rio](https://github.com/raphamorim/rio)                                    
- | [Inline images protocol][iip]          | ❌ Rio renders images at incorrect
- sizes |
+    |
+ | [Rio](https://github.com/raphamorim/rio) (>= 0.3.9)                         
+ | [Kitty unicode placeholders][kgp]      | ✅ Built-in                        
+    |
  | [Black Box](https://gitlab.gnome.org/raggesilver/blackbox)                  
  | [Sixel graphics format][sixel]         | ✅ Built-in                        
-      |
+    |
  | [Bobcat](https://github.com/ismail-yilmaz/Bobcat)                           
  | [Inline images protocol][iip]          | ✅ Built-in                        
-      |
+    |
  | X11 / Wayland                                                               
  | Window system protocol                 | ☑️ [Überzug++][ueberzug]
- required        |
+ required      |
  | Fallback                                                                    
- | [ASCII art (Unicode block)][ascii-art] | ☑️ [Chafa][chafa] required      
-         |
+ | [ASCII art (Unicode block)][ascii-art] | ☑️ [Chafa][chafa] required (>=
+ 1.16.0) |
  .
  See https://yazi-rs.github.io/docs/image-preview for details.
  .
