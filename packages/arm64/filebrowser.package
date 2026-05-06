@@ -1,16 +1,16 @@
 Package: filebrowser
 Architecture: arm64
-Version: 2.63.2+1
+Version: 2.63.3+1
 Priority: optional
 Section: web
 Maintainer: wcbing <i@wcbing.top>
-Installed-Size: 65972
-Filename: https://github.com/wcbing-apt-repo/filebrowser-debs/releases/latest/download/./filebrowser_2.63.2+1_arm64.deb
-Size: 22108668
-MD5sum: 7549d7379e5406008fc8b476e338fe2f
-SHA1: 69d53e6704c4ae572a52f9f23e429b4f817a982a
-SHA256: 0b7afb15924cc102d09e9dafcf25b90576d8880b5bed4c12a419aea97c170309
-SHA512: 4efc06c9a5eebfb91edb088a8fc02ef3a3c9307ecfa81d8d115b2b253cfaf16e8688530faef94174b1b2b9585178d63fdbae12e45f264246c225d07748932d7c
+Installed-Size: 66356
+Filename: https://github.com/wcbing-apt-repo/filebrowser-debs/releases/download/v2.63.3/filebrowser_2.63.3+1_arm64.deb
+Size: 22170900
+MD5sum: 685a4817ec2d5871636d97f5e6dd84c3
+SHA1: c1eac292ba145730df5b2626be2476e5bc03334c
+SHA256: 0329a3e83903677441598a36f974a4805603b5b1ae3dee9080f3a05095dbea21
+SHA512: 34163b6037eca8297873da3bf7f254a608c0d8eb22a2eb3ae15342d0ff843493139dc58431dca0cab28524593c60da6656d5fca20f0aa54f2b8a9254a4e95b67
 Homepage: https://github.com/filebrowser/filebrowser
 Description: Web File Browser
  File Browser provides a file managing interface within a specified directory
